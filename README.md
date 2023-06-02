@@ -1,1 +1,1 @@
-# DSAzadanie2
+Vypracované zadanie druhého zadanie z predmetu Dátové štruktúry a algoritmy.
